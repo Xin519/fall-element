@@ -1,0 +1,9 @@
+{
+  "name": "lg-formitem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "async-validator": "^3.5.1"
+  }
+}
